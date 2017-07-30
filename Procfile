@@ -1,0 +1,1 @@
+web: mvn exec:java -pl core-api-proxy -Dexec.args='-Xms512m Xmx1024m'
